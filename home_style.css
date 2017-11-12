@@ -1,0 +1,15 @@
+body{
+    opacity: 0.8;
+    font-family:arial;
+    font-size:30px;
+    text-align:center;
+    background-color: #c7254e;
+    padding-top:100px;
+}
+button{
+    cursor:pointer;
+    font-size: 20px;
+    width:350px;
+    height:50px;
+    margin-top: 15px;
+}
